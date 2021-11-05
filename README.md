@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rollingpoe@gmail.com
+- South Korea
 
 <!---
 SG-Marco/SG-Marco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
