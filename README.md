@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SG-Marco
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ My github pages(SG-Marco.github.io)
 - 📫 How to reach me rollingpoe@gmail.com
 - South Korea
 
